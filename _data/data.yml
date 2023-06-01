@@ -90,27 +90,27 @@ publications:
       - title: ADJUST - A Dictionary-based Joint Reconstruction and Unmixing Method for Spectral Tomography
         link: "#"
         authors: Mathe Zeegers, Ajinkya Kadu, Tristan van Leeuwen, K. Joost Batenburg
-        journal: Inverse Problems, 2022
+        conference: Inverse Problems, 2022
 
       - title: COSHARP - A Convex Program for Single-Shot Tomographic Shape Sensing
         link: "#"
         authors: Ajinkya Kadu, Tristan van Leeuwen
-        journal: Inverse Problems, 2021
+        conference: Inverse Problems, 2021
 
       - title: High-contrast reflection tomography with total-variation constraints
         link: "#"
         authors: Ajinkya Kadu, Hassan Mansour, Petros T. Boufounos
-        journal: IEEE Transactions on Computational Imaging, 2020
+        conference: IEEE Transactions on Computational Imaging, 2020
 
       - title: A convex formulation for binary tomography
         link: "#"
         authors: Ajinkya Kadu, Tristan van Leeuwen
-        journal: IEEE Transactions on Computational Imaging, 2019
+        conference: IEEE Transactions on Computational Imaging, 2019
 
       - title: Salt reconstruction in full-waveform inversion with a parametric level-set method
         link: "#"
         authors: Ajinkya Kadu, Tristan van Leeuwen, Wim Mulder
-        journal: IEEE Transactions on Computational Imaging, 2017
+        conference: IEEE Transactions on Computational Imaging, 2017
 skills:
     title: Skills & Proficiency
     toolset:
