@@ -1,0 +1,87 @@
+sidebar:
+    about: True
+    education: True
+    name: Ajinkya Kadu
+    tagline: Applied Mathematican in Computational Imaging
+    avatar: profile.jpg
+    email: ajinkyakadu125@gmail.com
+    phone: +31-620969378
+    timezone: CEST
+    citizenship: India
+    website: ajinkyakadu125.github.io
+    linkedin: ajinkyakadu
+    github: ajinkyakadu
+    pdf: http://ajinkyakadu.github.io/resume.pdf
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+        - idiom: Hindi
+          level: Professional
+        - idiom: Dutch
+          level: Beginner
+    interests:
+      title: Interests
+      info:
+        - item: Mathematics
+        - item: Biking
+        - item: Gaming
+career-profile:
+    title: Career Profile
+    summary: >
+      an applied mathematician with over 5 years of experience specializing in computational imaging. significantly contributed to the development of atomic-resolution imaging and dynamic object imaging. Proficient in Python, MATLAB, C++, and scientific computing, with expertise extends to areas such as X-ray tomography, electron microscopy, and 3D reconstruction.
+education:
+    title: Education
+    info:
+      - degree: PhD in Applied Mathematics
+        university: Utrecht University
+        time: 2015 - 2019
+      - degree: Bachelor & Master's in Aerospace Engineering
+        university: Indian Institute of Technology, Bombay
+        time: 2010 - 2015
+experiences:
+    title: Experiences
+    info:
+      - role: Postdoctoral Researcher
+        time: July 2021 - Present
+        company: NANOlab Center of Excellence, University of Antwerp
+      - role: Postdoctoral Researcher
+        time: July 2020 - June 2021
+        company: Centrum Wiskunde & Informatica, Amsterdam
+      - role: Doctoral Researcher
+        time: July 2015 - June 2020
+        company: Utrecht University
+      - role: Scientific Consultant 
+        time: Jan 2019 - Sep 2020
+        company: Simreka, Utrecht
+      - role: Visiting Research Intern
+        time: Jan 2019 - Sep 2020
+        company: Mitsubishi Electric Research Labs, Cambridge, MA
+projects:
+    title: Projects
+    intro: >
+      Some of my key projects include...
+    assignments:
+      - title: Machine Learning Model for Sales Forecasting
+        link: "http://jdoe.com/project1"
+      - title: Data Cleaning Python Library
+        link: "http://jdoe.com/project2"
+publications:
+    title: Publications
+    intro: >
+      Some of my key publications are...
+    papers:
+      - title: Optimizing Data Cleaning Techniques
+        link: "http://jdoe.com/publication1"
+skills:
+    title: Skills & Proficiency
+    toolset:
+      - name: Python
+        level: 95%
+      - name: MATLAB
+        level: 90%
+      - name: C++
+        level: 55%
+footer: >
+    Designed by Ajinkya.
