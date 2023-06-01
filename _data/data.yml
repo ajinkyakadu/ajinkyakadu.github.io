@@ -24,9 +24,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Mathematics
+        - item: Coding
         - item: Biking
         - item: Gaming
+        - item: Cricket
 career-profile:
     title: Career Profile
     summary: >
@@ -46,19 +47,19 @@ experiences:
       - role: Postdoctoral Researcher
         time: July 2021 - Present
         company: NANOlab Center of Excellence, University of Antwerp
-        details: 
+        details: |
           As a post-doctoral researcher, I'm involved in
             - Advancing atomic-resolution imaging via novel electron tomography techniques, significantly impacting drug-delivery \& pharmaceutics
             - Mentoring 5 postgrad researchers in using cutting-edge computational tools for discovering novel phenomena using electron microscopy
       - role: Postdoctoral Researcher
         time: July 2020 - June 2021
         company: Centrum Wiskunde & Informatica, Amsterdam
-        details: 
+        details: |
           Led the design of an efficient, time-resolved 3D algorithm for dynamic object imaging, enhancing X-ray tomography capabilities
       - role: Doctoral Researcher
         time: July 2015 - June 2020
         company: Utrecht University
-        details:
+        details: |
           In this role, I was involved in multiple roles
             - Initiated and developed an innovative shape-sensing framework that revolutionized earth exploration, adopted for implementation in Shell's North Sea project, delivering unprecedented detail and accuracy
             - Devised pioneering convex programs for NP-hard problems discrete \& single-shot X-ray tomography for scientific applications
@@ -66,26 +67,15 @@ experiences:
       - role: Scientific Consultant 
         time: Jan 2019 - Sep 2020
         company: Simreka, Utrecht
-        details:
+        details: |
           Developed a predictive platform to identify non-toxic alternatives in manufacturing units, promoting safer industrial processes
       - role: Visiting Research Intern
         time: Jan 2019 - Sep 2020
         company: Mitsubishi Electric Research Labs, Cambridge, MA
-        details:
+        details: |
           Developed an inverse scattering framework to enhance underground radar systems, improving industrial pipe infrastructure analysis
-projects:
-    title: Projects
-    intro: >
-      Some of my key projects include...
-    assignments:
-      - title: 
-        link: "http://jdoe.com/project1"
-      - title: 
-        link: "http://jdoe.com/project2"
 publications:
-    title: Publications
-    intro: >
-      Some of my key publications are...
+    title: Key Publications
     papers:
       - title: ADJUST - A Dictionary-based Joint Reconstruction and Unmixing Method for Spectral Tomography
         link: "#"
@@ -114,11 +104,11 @@ publications:
 skills:
     title: Skills & Proficiency
     toolset:
-      - name: Python
-        level: 95%
       - name: MATLAB
+        level: 95%
+      - name: Python
         level: 90%
       - name: C++
-        level: 55%
+        level: 45%
 footer: >
     Designed by Ajinkya.
