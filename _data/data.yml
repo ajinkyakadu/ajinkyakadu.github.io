@@ -63,17 +63,25 @@ projects:
     intro: >
       Some of my key projects include...
     assignments:
-      - title: Machine Learning Model for Sales Forecasting
+      - title: 
         link: "http://jdoe.com/project1"
-      - title: Data Cleaning Python Library
+      - title: 
         link: "http://jdoe.com/project2"
 publications:
     title: Publications
     intro: >
       Some of my key publications are...
     papers:
-      - title: Optimizing Data Cleaning Techniques
-        link: "http://jdoe.com/publication1"
+      - title: ADJUST - A dictionary-based joint reconstruction and unmixing method for spectral tomography
+        link: 
+      - title: Cosharp - A convex program for single-shot tomographic shape sensing
+        link: 
+      - title: High-contrast reflection tomography with total-variation constraints
+        link:
+      - title: A convex formulation for binary tomography
+        link:
+      - title: Salt reconstruction in full-waveform inversion with a parametric level-set method
+        link:
 skills:
     title: Skills & Proficiency
     toolset:
